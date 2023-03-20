@@ -259,7 +259,7 @@
   }
   .gate_cont {
     width: 100%;
-    height: 80vh;
+    height: 75vh;
     background: url("../image/tb_gate01.jpg") no-repeat center bottom;
     background-size: cover;
     position: absolute;
@@ -275,7 +275,7 @@
   }
   .gate .desc {
     width: 100%;
-    height: 20vh;
+    height: 25vh;
     flex-direction: row;
     position: absolute;
     top: 0;
@@ -320,7 +320,7 @@
   }
   .gate_cont {
     width: 100%;
-    height: 80vh;
+    height: 75vh;
     background: url("../image/tb_gate01.jpg") no-repeat center bottom;
     background-size: cover;
     position: absolute;
@@ -336,7 +336,7 @@
   }
   .gate .desc {
     width: 100%;
-    height: 20vh;
+    height: 25vh;
     flex-direction: row;
     position: absolute;
     top: 0;
